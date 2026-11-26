@@ -23,3 +23,7 @@ Python / SQL / Pandas / NumPy / Matplotlib / Seaborn / Plotly / Scikit-learn / T
 **Previously Worked With – Web Development & Other Technologies**
 
 HTML / CSS / Bootstrap / JavaScript / React Native / Firebase / MongoDB / MySQL / Git / GitHub / VS Code
+
+### 🏅 Certifications & Professional Badges
+
+[![Data Analysis with Python](BADGE_IMAGE_URL)](https://www.credly.com/badges/5e452a2d-4c4d-4e76-b521-314eed3272c9/public_url)
