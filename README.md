@@ -12,7 +12,7 @@
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Analysis, TensorFlow & Scikit-learn**
 - 📫 How to reach me: **mujtabazaman.work@gmail.com**
 - 💼 Connect with me: [LinkedIn](https://linkedin.com/in/mujtaba-uz-zaman)
-- 📄 Know about my experience: [View My Resume](YOUR_CV_LINK)
+- 📄 Know about my experience: <a href="./Mujtaba_Zaman_CV.pdf" target="_blank">View My Resume</a>
 
 ### Languages and Tools:
 
