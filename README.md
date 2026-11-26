@@ -3,7 +3,7 @@
 
 ### A passionate Machine Learning Engineer & Data Science enthusiast from Karachi, Pakistan 🇵🇰
 
-!([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif))
+!![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 - 🔭 I'm currently working on **Machine Learning & Deep Learning Applications**
 - 🌱 I'm currently learning **Advanced Machine Learning & Deep Learning (CNNs, Transfer Learning, Model Optimization)**
