@@ -32,17 +32,19 @@ HTML / CSS / Bootstrap / JavaScript / React Native / Firebase / MongoDB / MySQL 
 
 
 <p align="center">
-  <a href="[CREDLY_BADGE_1](https://www.credly.com/badges/3d1dd368-7e71-418c-8e92-839223897584/public_url)">
+  <a href="https://www.credly.com/badges/3d1dd368-7e71-418c-8e92-839223897584/public_url">
     <img src="./assets/Data-Analysis-with-Python.png"
          alt="Data Analysis with Python"
          width="150">
   </a>
-  <a href="[CREDLY_BADGE_2](https://www.credly.com/badges/5e452a2d-4c4d-4e76-b521-314eed3272c9/public_url)">
+
+  <a href="https://www.credly.com/badges/5e452a2d-4c4d-4e76-b521-314eed3272c9/public_url">
     <img src="./assets/Python-for-Data-Science-and-Ai.png"
          alt="Python for Data Science and AI"
          width="150">
   </a>
-  <a href="[CREDLY_BADGE_3](https://www.credly.com/badges/230fe295-5164-42ee-8766-0e7ea93995d6/public_url)">
+
+  <a href="https://www.credly.com/badges/230fe295-5164-42ee-8766-0e7ea93995d6/public_url">
     <img src="./assets/applied-data-science-capstone.png"
          alt="Applied Data Science Capstone"
          width="150">
