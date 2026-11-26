@@ -26,4 +26,4 @@ HTML / CSS / Bootstrap / JavaScript / React Native / Firebase / MongoDB / MySQL 
 
 ### 🏅 Certifications & Professional Badges
 
-[![Data Analysis with Python](./assets/Data-Analysis-Python.png)](https://www.credly.com/badges/5e452a2d-4c4d-4e76-b521-314eed3272c9/public_url)
+[![Data Analysis with Python](https://raw.githubusercontent.com/mujtaba-zaman/mujtaba-zaman/main/assets/Data-Analysis-with-Python.png)](https://www.credly.com/badges/5e452a2d-4c4d-4e76-b521-314eed3272c9/public_url)
