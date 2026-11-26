@@ -27,3 +27,5 @@ HTML / CSS / Bootstrap / JavaScript / React Native / Firebase / MongoDB / MySQL 
 ### 🏅 Certifications & Professional Badges
 
 [![Python for Data Science and AI](https://raw.githubusercontent.com/mujtaba-zaman/mujtaba-zaman/main/assets/Python-for-Data-Science-and-Ai.png)](CREDLY_PUBLIC_BADGE_URL)
+
+[![Applied Data Science Capstone](https://raw.githubusercontent.com/mujtaba-zaman/mujtaba-zaman/main/applied-data-science-capstone.png)](CREDLY_PUBLIC_BADGE_URL)
