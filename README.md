@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi 👋, I'm Muhammad Mujtaba Uz Zaman
 
-<!--
-**mujtaba-zaman/mujtaba-zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Machine Learning Engineer & Data Science enthusiast from Karachi, Pakistan 🇵🇰
 
-Here are some ideas to get you started:
+🔭 I'm currently working on Machine Learning & Deep Learning Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently learning Advanced Machine Learning & Deep Learning (CNNs, Model Optimization)
+
+👨‍💻 All of my projects and live demos are available at Explore My Projects
+
+💬 Ask me about Python, Machine Learning, Deep Learning, Data Analysis, TensorFlow, and Scikit-learn
+
+📫 How to reach me: mujtabazaman.work@gmail.com
+
+💼 Connect with me: LinkedIn
+
+📄 Know about my experience: View My Resume
+
+Connect with me:
+
+LinkedIn | GitHub | Email: mujtabazaman.work@gmail.com
+
+Languages and Tools:
+
+Currently Working With – Machine Learning & Data Science
+
+Python / Pandas / NumPy / Matplotlib / Seaborn / Plotly / Scikit-learn / TensorFlow / Keras / CNN / EfficientNet-B0 / SQL / Power BI / Jupyter Notebook
+
+Previously Worked With – Web Development & Other Technologies
+
+HTML / CSS / Bootstrap / JavaScript / React Native / Firebase / MongoDB / MySQL / Git / GitHub / VS Code
