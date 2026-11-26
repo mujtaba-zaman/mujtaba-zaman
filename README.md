@@ -2,8 +2,9 @@
 # Hi 👋, I'm Muhammad Mujtaba Uz Zaman
 
 ### A passionate Machine Learning Engineer & Data Science enthusiast from Karachi, Pakistan 🇵🇰
-
-!![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+</p>
 
 - 🔭 I'm currently working on **Machine Learning & Deep Learning Applications**
 - 🌱 I'm currently learning **Advanced Machine Learning & Deep Learning (CNNs, Transfer Learning, Model Optimization)**
