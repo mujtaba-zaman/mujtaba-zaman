@@ -2,7 +2,7 @@
 # Hi 👋, I'm Muhammad Mujtaba Uz Zaman
 
 ### A passionate Machine Learning Engineer & Data Science enthusiast from Karachi, Pakistan 🇵🇰
-
+https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif
 - 🔭 I'm currently working on **Machine Learning & Deep Learning Applications**
 - 🌱 I'm currently learning **Advanced Machine Learning & Deep Learning (CNNs, Transfer Learning, Model Optimization)**
 - 👨‍💻 All of my projects and live demos are available at **[Explore My Projects](YOUR_LIVE_DEMO_LINK)**
