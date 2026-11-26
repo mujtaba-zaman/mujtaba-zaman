@@ -11,10 +11,6 @@
 - 💼 Connect with me: [LinkedIn](https://linkedin.com/in/mujtaba-uz-zaman)
 - 📄 Know about my experience: [View My Resume](YOUR_CV_LINK)
 
-### Connect with me:
-
-[LinkedIn](https://linkedin.com/in/mujtaba-uz-zaman) | [GitHub](https://github.com/mujtaba-zaman)
-
 ### Languages and Tools:
 
 **Currently Working With – Machine Learning & Data Science**
