@@ -25,12 +25,7 @@ Python / SQL / Pandas / NumPy / Matplotlib / Seaborn / Plotly / Scikit-learn / T
 HTML / CSS / Bootstrap / JavaScript / React Native / Firebase / MongoDB / MySQL / Git / GitHub / VS Code
 
 
-<h2 align="center">🏆 Professional Certifications & Badges</h2>
-
-<p align="center">
-  Verified professional certifications from IBM, Google, and other learning platforms.
-</p>
-
+<h2 align="left">🏆 Professional Badges</h2>
 <table align="center">
   <tr>
     <td align="center">
